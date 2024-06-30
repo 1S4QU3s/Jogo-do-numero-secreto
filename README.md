@@ -14,7 +14,7 @@
 
 
 
-## link do jogo: https://portfolio-sigma-lake-78.vercel.app/index.html
+## link do jogo: [https://portfolio-sigma-lake-78.vercel.app/index.html](https://jogo-one-murex-10.vercel.app/)
 
 ## Ferramentas utilizadas:
 
